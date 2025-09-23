@@ -1,0 +1,48 @@
+{
+  "name": "Evangelion Unit-01",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#8bd450",
+    "primary-color": "#965fd4",
+    "warning-color": "#f4b943",
+    "alert": "#e6770b",
+    
+    "sidebar-color": "#151515",
+    "roomlist-background-color": "#1d1a2f",
+    "roomlist-text-color": "#8bd450",
+    "roomlist-text-secondary-color": "#734f9a",
+    "roomlist-highlights-color": "#2a2740",
+    "roomlist-separator-color": "#3f6d4e",
+    
+    "timeline-background-color": "#222222",
+    "timeline-text-color": "#8edf5f",
+    "secondary-content": "#8bd450",
+    "tertiary-content": "#52d053",
+    "timeline-text-secondary-color": "#6d6a9a",
+    "timeline-highlights-color": "#2a2740",
+    
+    "reaction-row-button-selected-bg-color": "#3f6d4e",
+    "menu-selected-color": "#2a2740",
+    "focus-bg-color": "#734f9a",
+    "room-highlight-color": "#8bd450",
+    "togglesw-off-color": "#4f2a92",
+    "other-user-pill-bg-color": "#965fd4",
+    
+    "username-colors": [
+      "#8bd450",
+      "#965fd4",
+      "#f4b943",
+      "#52d053",
+      "#734f9a",
+      "#8edf5f",
+      "#a976c3",
+      "#e6770b"
+    ],
+    
+    "avatar-background-colors": [
+      "#965fd4",
+      "#8bd450",
+      "#734f9a"
+    ]
+  }
+}
