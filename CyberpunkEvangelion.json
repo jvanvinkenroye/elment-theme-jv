@@ -1,0 +1,43 @@
+{
+  "name": "Cyberpunk Evangelion",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#ff0080",
+    "primary-color": "#ff0080",
+    "warning-color": "#ff00ff",
+    "alert": "#ff0066",
+    "sidebar-color": "#1a0033",
+    "roomlist-background-color": "#240046",
+    "roomlist-text-color": "#ff0080",
+    "roomlist-text-secondary-color": "#b366ff",
+    "roomlist-highlights-color": "#330066",
+    "roomlist-separator-color": "#4d0099",
+    "timeline-background-color": "#1a0033",
+    "timeline-text-color": "#ff66b3",
+    "secondary-content": "#cc99ff",
+    "tertiary-content": "#9966cc",
+    "timeline-text-secondary-color": "#b366ff",
+    "timeline-highlights-color": "#2d0059",
+    "reaction-row-button-selected-bg-color": "#4d0099",
+    "menu-selected-color": "#330066",
+    "focus-bg-color": "#660099",
+    "room-highlight-color": "#ff00ff",
+    "togglesw-off-color": "#4d4d80",
+    "other-user-pill-bg-color": "#9933ff",
+    "username-colors": [
+      "#ff0080",
+      "#ff00ff",
+      "#cc00ff",
+      "#ff66b3",
+      "#ff99cc",
+      "#cc66ff",
+      "#9933ff",
+      "#ff3399"
+    ],
+    "avatar-background-colors": [
+      "#660099",
+      "#4d0099",
+      "#330066"
+    ]
+  }
+}
