@@ -13,6 +13,8 @@
     "roomlist-text-secondary-color": "#b366ff",
     "roomlist-highlights-color": "#330066",
     "roomlist-separator-color": "#4d0099",
+    "menu-selected-color": "#330066",
+    "focus-bg-color": "#660099",
     
     "timeline-background-color": "#1a0033",
     "timeline-text-color": "#ff66b3",
